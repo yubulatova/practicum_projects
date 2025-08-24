@@ -16,6 +16,8 @@
 
 ### Анализ юнит-экономики Procrastinate Pro+
 
+[Посмотреть проект](https://github.com/yubulatova/practicum_projects/blob/main/procrastinate_pro%2B.ipynb)
+
 **Цель:** Исследование влияния запуска спортивного контента и изменения маркетинговой стратегии.
 
 **Результаты:**
