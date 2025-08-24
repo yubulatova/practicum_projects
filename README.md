@@ -1,6 +1,6 @@
 ### Комплексный анализ метрик и юнит-экономики маркетплейса
 
-[Посмотреть проект](https://github.com/yubulatova/practicum_projects/final.ipynb)
+[Посмотреть проект](https://github.com/yubulatova/practicum_projects/final.ipynb)](https://github.com/yubulatova/practicum_projects/blob/main/final.ipynb)
 
 **Цель:** Проведение A/B-теста и анализ ключевых бизнес-показателей.
 
